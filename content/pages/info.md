@@ -20,7 +20,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/sm5441.jpg
       altText: Hero image
     styles:
       self:
