@@ -63,7 +63,7 @@
             "phoneAltText": "no phone provided",
             "email": "media@jospan.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "",
             "addressAltText": "My address"
         },
         "copyrightText": "©2026\n",
